@@ -1,0 +1,1 @@
+<?php header('Location: message_list.php'); exit;

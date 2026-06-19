@@ -1,0 +1,1 @@
+<?php header('Location: partner_list.php'); exit;
